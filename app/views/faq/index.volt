@@ -41,7 +41,7 @@
 	<div class="callout secondary">
 		<h3>How much room do you need to set up the pump?</h3>
 		<ul>
-			<li>This will depend on the size of the pump and the type of job. A site visit can be arranged if necessary or advice can be offered by 2 Brothers.</li>
+			<li>This will depend on the size of the pump and the type of job. A site visit can be arranged if necessary or advice can be offered by myself.</li>
 		</ul>
 	</div>
 

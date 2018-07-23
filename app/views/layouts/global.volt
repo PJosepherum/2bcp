@@ -31,26 +31,19 @@
       <div class="callout darkHead">
 
         <div class="row column text-center">
-          <h1 class="show-for-sr">2 Brothers Concrete Pumping</h1>
+          <h1 class="show-for-sr">Spindles Concrete Pumping</h1>
           <img src="/img/theme/logo-long.png" />
         </div>
 
         <div class="row text-center">
           <br />
-          <div class="small-6 columns">
-            <h2><i class="fa fa-mobile"></i> <span class="primary shadow">Liam: 07469711441</span></h2>
+          <div class="small-12 medium-4 columns">
+            <h2><i class="fa fa-mobile"></i> <span class="primary shadow">07469711441</span></h2>
           </div>
-          <div class="small-6 columns">
-            <h2><i class="fa fa-mobile"></i> <span class="primary shadow">Callum: 07825727710</span></h2>
-          </div>
+	  <div class="small-12 medium-8 columns">
+            <h2><i class="fa fa-envelope-o"></i> <span class="shadow"><a href="mailto:spindlesconcretepumping@mail.com">spindlesconcretepumping@mail.com</a></span></h2>
+	  </div>
         </div>
-
-        <div class="row text-center">
-          <div class="small-12 columns">
-            <h3><i class="fa fa-envelope-o"></i> <span class="shadow"><a href="mailto:info@2brothersconcretepumping.co.uk">info@2brothersconcretepumping.co.uk</a></span></h3>
-          </div>
-        </div>
-
       </div>
 
       <!-- menu / tab bar -->
@@ -85,8 +78,8 @@
       <!-- footer -->
 
       <div id="footer" class="row column">
-        <span class="float-left">&copy;2016</span>
-        <span class="float-right"><a href="https://spjz.uk"><sub>sPJz</sub></a>( ͡° ͜ʖ ͡°)<sub>2016</sub></span>
+        <span class="float-left">&copy;2018</span>
+        <span class="float-right"><a href="https://spjz.uk"><sub>sPJz</sub></a>( ͡° ͜ʖ ͡°)<sub>2018</sub></span>
       </div>
 
     </div>

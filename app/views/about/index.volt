@@ -8,8 +8,10 @@
 
 			<div class="row column">
 				<div class="callout secondary">
-					<p><em>2BCP</em> was established in the summer of 2016, when brothers Liam and Callum took a gamble buying their first concrete pump and took the industry by storm.</p>
-					<p>Both Liam and Callum have years of experience working for established concrete pumping organisations prior to their partnership.</p>
+					<p><em>Spindle's Concrete Pumping</em> was established in August of 2017.</p>
+					<p>With a strong and passionate work ethic, I obtained the necessary accreditations and equipment, seeking to utilise my many years of professional experience working with industry leading organisations.</p>
+					<p>In a such a short duration my company has grown significantly, always optimising and extending my capacity to surpass the needs and expectations of any client's project, regardless of its scope or budget.</p>
+					<p>My friendly, professional, and personal approach to client relations enables me to provide exceptional service which simply isn't obtainable from the industry giants.</p>
 				</div>
 			</div>
 
@@ -28,7 +30,7 @@
 						<li>Builders</li>
 						<li>Developers</li>
 						<li>Large building contractors</li>
-						<li>Anyone who needs to move concrete….fast!</li>
+						<li>Anyone who needs to move concrete <em>fast!</em></li>
 					</ul>
 				</div>
 			</div>

@@ -5,7 +5,7 @@
 	<div class="row column">
 		<div class="callout secondary">
 			<h3>How to book</h3>
-			<p>Please contact Liam or Callum to arrange for a site visit, and to get a quotation for pump hire.</p>
+			<p>Please contact Liam to arrange for a site visit, and to get a quotation for pump hire.</p>
 		</div>
 	</div>
 

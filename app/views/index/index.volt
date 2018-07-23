@@ -39,8 +39,8 @@
 		<div class="medium-6 columns">
 			<div class="callout">
 				<h3>Who are we?</h3>
-				<p><em>2BCP</em> is an independent family business run by two pump operatives with nine years of combined experience.</p>
-				<p>Our pump has a reach of <span class="label secondary">16 metres</span> and carries <span class="label secondary">40 metres</span> of additional pipeline as standard, of which more can be made available, capable of pumping <span class="label secondary">60 metres<sup>3</sup>/hr</span> over, around, and beneath most obstacles, maximising both the speed and safety of our work.</p>
+				<p><em>Spindle's Concrete Pumping</em> is an independent, family business, operated by an experienced pump operative with many years of professional experience working with industry leading organisations.</p>
+				<p>The equipment has a maximum reach of <span class="label secondary">16 metres</span> and carries <span class="label secondary">45 metres</span> of additional pipeline as standard, of which more can be made available, capable of pumping <span class="label secondary">90 metres<sup>3</sup>/hr</span> over, around, and beneath most obstacles, maximising both the speed and safety of our work.</p>
 				<p>We share our expertise with all clients to provide a comprehensive and affordable service, unrivaled throughout the south of England.</p>
 			</div>
 		</div>
@@ -48,13 +48,13 @@
 		<div class="medium-6 columns">
 			<div class="callout secondary">
 				<h3>Why us?</h3>
-				<p>Our specialised equipment allows us to pump quickly into areas which would otherwise be inaccessible.</p>
+				<p>Specialised equipment allows us to pump quickly into areas which would otherwise be inaccessible.</p>
 				<ul>
 					<li>No more wheel barrows</li>
 					<li>Reduced plant and labour costs</li>
 					<li>We get concrete in those hard to reach areas</li>
 					<li>Over 350m+ horizontal and 100m vertical range</li>
-					<li>Fast and effective delivery (up to 60m<sup>3</sup>/hour)</li>
+					<li>Fast and effective delivery (up to 90m<sup>3</sup>/hour)</li>
 					<li>Small and large loads pumped</li>
 					<li>All operators are fully CPCS competent</li>
 					<li>Full public liability insurance</li>
